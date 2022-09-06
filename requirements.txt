@@ -1,0 +1,14 @@
+boto3
+pylint
+click
+pytest
+pytest-cov
+fastapi
+requests
+openai
+python-youtube
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
